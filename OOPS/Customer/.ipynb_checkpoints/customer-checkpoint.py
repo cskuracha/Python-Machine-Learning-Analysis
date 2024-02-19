@@ -4,8 +4,17 @@ class Customer:
     @classmethod
     def read_customers_from_csv(cls):
         data = pd.read_csv("customers.csv", sep = ",")
-        print(data)
-
+        #print(data)
+        #print(len(data), data.loc[0]['name'])
+        for i in range(len(data)):
+            Customer(
+                name = data.loc[i]['name'],
+                account = data.loc[i]['account'],
+                balance = data.loc[i]['balance'],
+                branch = data.loc[i]['branch']
+            )
+        #print(data.loc[0]['account'])
+    
 
     def __init__(self, name, account, balance = 0, branch = ""):
         print("This method will call when class is initiated")
@@ -13,6 +22,9 @@ class Customer:
         self.account = account
         self.balance = balance
         self.branch = branch
+
+    def __repr__(self):
+        return f"{self.__class__.__name__}('{self.name}', '{self.account}', {self.balance}, '{self.branch}')"
     
 
 Customer.read_customers_from_csv()
