@@ -1,0 +1,5 @@
+name, account, balance, branch
+"Chaitanya", "Savings", 1000, "Hyderabad"
+"Ram", "Savings", 2000, "Mumbai"
+"Krishna", "Current", 1500, "Mumbai"
+"Anand", "Business", 2000, "Delhi"
