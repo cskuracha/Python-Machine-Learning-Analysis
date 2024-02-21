@@ -15,7 +15,10 @@ class Savings(Customer):
             raise Exception("Balance cannot be String")
         else:
             self.__balance = value
-    
+
+    @classmethod
+    def customer_count(cls):
+        return len(Customer.all)
 
 #Customer.read_customers_from_csv()
 #print(Customer.all)
@@ -27,4 +30,6 @@ try:
     print(Savings.all)
 except TypeError:
     print("Error occured during Item Assignment")
+
+print("Number of Customers: ", Savings.customer_count())
 
