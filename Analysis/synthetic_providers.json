@@ -1,0 +1,502 @@
+[
+  {
+    "PROVIDER_ID": "PROV001",
+    "NAME": "James Rodriguez DO",
+    "SPECIALTY": "Cardiology",
+    "NPI": "1486811999",
+    "ADDRESS": "90648 Ramos Glens Suite 841, Cobbberg, MT 82884",
+    "CITY": "Caldwellberg",
+    "STATE": "OR",
+    "ZIP_CODE": "38035"
+  },
+  {
+    "PROVIDER_ID": "PROV002",
+    "NAME": "Cheyenne Stevens MD",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "2271304875",
+    "ADDRESS": "60134 Amanda View, Kevinmouth, ID 17815",
+    "CITY": "Connieburgh",
+    "STATE": "NY",
+    "ZIP_CODE": "61344"
+  },
+  {
+    "PROVIDER_ID": "PROV003",
+    "NAME": "Kimberly Carrillo DO",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "9170852679",
+    "ADDRESS": "USNV Carter, FPO AP 29927",
+    "CITY": "Kathleenfurt",
+    "STATE": "IL",
+    "ZIP_CODE": "76551"
+  },
+  {
+    "PROVIDER_ID": "PROV004",
+    "NAME": "Gallagher, Davis and Young",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "7676009275",
+    "ADDRESS": "56543 Hawkins Parks Suite 085, South Jeffery, IL 95888",
+    "CITY": "Parkerfort",
+    "STATE": "ND",
+    "ZIP_CODE": "83143"
+  },
+  {
+    "PROVIDER_ID": "PROV005",
+    "NAME": "Jackson, Vega and Espinoza",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "7223726438",
+    "ADDRESS": "91869 Reyes Neck, Hutchinsonbury, FL 53414",
+    "CITY": "West Amanda",
+    "STATE": "MD",
+    "ZIP_CODE": "82327"
+  },
+  {
+    "PROVIDER_ID": "PROV006",
+    "NAME": "Matthew Simmons MD",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "9551736913",
+    "ADDRESS": "08260 Coleman Fall Apt. 471, West Charleston, WA 37348",
+    "CITY": "Nicholasshire",
+    "STATE": "VA",
+    "ZIP_CODE": "83840"
+  },
+  {
+    "PROVIDER_ID": "PROV007",
+    "NAME": "Tina Dalton MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "5874621511",
+    "ADDRESS": "938 Bryant Ridge, Lake Timland, FL 48043",
+    "CITY": "Lake Donald",
+    "STATE": "MA",
+    "ZIP_CODE": "64466"
+  },
+  {
+    "PROVIDER_ID": "PROV008",
+    "NAME": "Douglas Parrish MD",
+    "SPECIALTY": "Dermatology",
+    "NPI": "9478740491",
+    "ADDRESS": "14361 Alexander Fall Apt. 367, West Benjaminhaven, AS 69940",
+    "CITY": "West Rodney",
+    "STATE": "ID",
+    "ZIP_CODE": "62587"
+  },
+  {
+    "PROVIDER_ID": "PROV009",
+    "NAME": "Suzanne Campos MD",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "6477101320",
+    "ADDRESS": "2562 Mathews Squares, North Bradhaven, NJ 84660",
+    "CITY": "New Martinbury",
+    "STATE": "PW",
+    "ZIP_CODE": "05051"
+  },
+  {
+    "PROVIDER_ID": "PROV010",
+    "NAME": "Michael Dominguez MD",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "9974065550",
+    "ADDRESS": "084 Melissa Greens, North Lindseyburgh, PR 54936",
+    "CITY": "Port John",
+    "STATE": "HI",
+    "ZIP_CODE": "99741"
+  },
+  {
+    "PROVIDER_ID": "PROV011",
+    "NAME": "Shaw, Jimenez and Shaffer",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "8352016475",
+    "ADDRESS": "1726 Tamara Views Suite 242, Smithfort, MT 65898",
+    "CITY": "West Justinside",
+    "STATE": "TN",
+    "ZIP_CODE": "71913"
+  },
+  {
+    "PROVIDER_ID": "PROV012",
+    "NAME": "Erica Gomez MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "6866955748",
+    "ADDRESS": "604 Stacy Union Suite 337, Ryanton, TX 86453",
+    "CITY": "Lake Caitlinborough",
+    "STATE": "PR",
+    "ZIP_CODE": "88816"
+  },
+  {
+    "PROVIDER_ID": "PROV013",
+    "NAME": "Lindsay Gilbert MD",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "5703548698",
+    "ADDRESS": "1353 Christopher Course Suite 667, Lake Derekshire, ME 56588",
+    "CITY": "Port Rachel",
+    "STATE": "AR",
+    "ZIP_CODE": "59780"
+  },
+  {
+    "PROVIDER_ID": "PROV014",
+    "NAME": "Caldwell, Barrett and Jimenez",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "2066816965",
+    "ADDRESS": "1053 Mercer Drive Apt. 539, Markmouth, SC 47672",
+    "CITY": "Heatherchester",
+    "STATE": "PA",
+    "ZIP_CODE": "17229"
+  },
+  {
+    "PROVIDER_ID": "PROV015",
+    "NAME": "Thomas Tucker DO",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "8310659209",
+    "ADDRESS": "USS Douglas, FPO AE 13958",
+    "CITY": "Jimenezton",
+    "STATE": "NE",
+    "ZIP_CODE": "63121"
+  },
+  {
+    "PROVIDER_ID": "PROV016",
+    "NAME": "Ramos-Adams",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "5682539292",
+    "ADDRESS": "01927 Lyons Stream Apt. 872, New Tristanberg, PW 71738",
+    "CITY": "Wardberg",
+    "STATE": "FL",
+    "ZIP_CODE": "99253"
+  },
+  {
+    "PROVIDER_ID": "PROV017",
+    "NAME": "Jeremy Green DO",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "3985556758",
+    "ADDRESS": "3044 Dennis Ranch, Maynardbury, NC 77034",
+    "CITY": "Romeromouth",
+    "STATE": "MS",
+    "ZIP_CODE": "99909"
+  },
+  {
+    "PROVIDER_ID": "PROV018",
+    "NAME": "Colton Williams MD",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "0254994958",
+    "ADDRESS": "4739 John Crescent, Andreaburgh, MO 62654",
+    "CITY": "Gibsontown",
+    "STATE": "VI",
+    "ZIP_CODE": "26795"
+  },
+  {
+    "PROVIDER_ID": "PROV019",
+    "NAME": "Susan Vargas MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "8600663853",
+    "ADDRESS": "2356 Matthew Road Apt. 164, Kathleenhaven, LA 30764",
+    "CITY": "North Rileybury",
+    "STATE": "PR",
+    "ZIP_CODE": "87294"
+  },
+  {
+    "PROVIDER_ID": "PROV020",
+    "NAME": "Danielle Thompson MD",
+    "SPECIALTY": "Cardiology",
+    "NPI": "9932654113",
+    "ADDRESS": "68671 Andrea Common Apt. 637, North Ashleystad, MP 73353",
+    "CITY": "North Nicholaschester",
+    "STATE": "NM",
+    "ZIP_CODE": "04376"
+  },
+  {
+    "PROVIDER_ID": "PROV021",
+    "NAME": "Joseph Edwards MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "5877441774",
+    "ADDRESS": "9707 Rodriguez Haven, Katrinafort, CO 87367",
+    "CITY": "South Richard",
+    "STATE": "MS",
+    "ZIP_CODE": "61940"
+  },
+  {
+    "PROVIDER_ID": "PROV022",
+    "NAME": "Mary Wallace MD",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "1212866497",
+    "ADDRESS": "7514 Kristy Bridge Apt. 208, Gregoryview, AS 04949",
+    "CITY": "East Jessicaside",
+    "STATE": "NJ",
+    "ZIP_CODE": "82846"
+  },
+  {
+    "PROVIDER_ID": "PROV023",
+    "NAME": "Mary Martinez MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "4854302599",
+    "ADDRESS": "USS Lewis, FPO AA 91744",
+    "CITY": "South Michelle",
+    "STATE": "ME",
+    "ZIP_CODE": "89401"
+  },
+  {
+    "PROVIDER_ID": "PROV024",
+    "NAME": "Allen LLC",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "5712165071",
+    "ADDRESS": "1525 Amanda Plain Suite 803, Michealborough, NC 37555",
+    "CITY": "Juanstad",
+    "STATE": "OK",
+    "ZIP_CODE": "89355"
+  },
+  {
+    "PROVIDER_ID": "PROV025",
+    "NAME": "Stephanie Figueroa MD",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "4202449692",
+    "ADDRESS": "2244 Selena Shore, Lake Christopherhaven, WV 70143",
+    "CITY": "Lisaside",
+    "STATE": "NJ",
+    "ZIP_CODE": "04704"
+  },
+  {
+    "PROVIDER_ID": "PROV026",
+    "NAME": "Matthew Smith DO",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "9733753178",
+    "ADDRESS": "900 Lewis Alley Suite 691, Kimburgh, NJ 79180",
+    "CITY": "Shepardchester",
+    "STATE": "WV",
+    "ZIP_CODE": "23095"
+  },
+  {
+    "PROVIDER_ID": "PROV027",
+    "NAME": "Hall, Young and Pratt",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "0008410112",
+    "ADDRESS": "96888 Jacob Valleys, Silvaville, MT 86689",
+    "CITY": "North Jenniferberg",
+    "STATE": "LA",
+    "ZIP_CODE": "38651"
+  },
+  {
+    "PROVIDER_ID": "PROV028",
+    "NAME": "Amanda Rose DO",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "6800258531",
+    "ADDRESS": "4888 Julie Glens Apt. 526, South Darrellmouth, IN 38222",
+    "CITY": "North Jeffrey",
+    "STATE": "MO",
+    "ZIP_CODE": "58364"
+  },
+  {
+    "PROVIDER_ID": "PROV029",
+    "NAME": "Mindy Collins DO",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "9455291791",
+    "ADDRESS": "19568 Warren Mill, Duncanshire, OK 32302",
+    "CITY": "Williamhaven",
+    "STATE": "RI",
+    "ZIP_CODE": "11305"
+  },
+  {
+    "PROVIDER_ID": "PROV030",
+    "NAME": "Mallory Rowe MD",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "2511409193",
+    "ADDRESS": "USNV Buchanan, FPO AP 41217",
+    "CITY": "Michelleview",
+    "STATE": "NC",
+    "ZIP_CODE": "95745"
+  },
+  {
+    "PROVIDER_ID": "PROV031",
+    "NAME": "Laura Bennett DO",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "2880499976",
+    "ADDRESS": "80896 Morgan Course, East Tiffanybury, VA 21309",
+    "CITY": "Singletonland",
+    "STATE": "MD",
+    "ZIP_CODE": "97203"
+  },
+  {
+    "PROVIDER_ID": "PROV032",
+    "NAME": "Todd Lee DO",
+    "SPECIALTY": "Dermatology",
+    "NPI": "6937258638",
+    "ADDRESS": "753 Young Shoals Apt. 963, Boothmouth, AZ 85436",
+    "CITY": "Silvafurt",
+    "STATE": "VA",
+    "ZIP_CODE": "62525"
+  },
+  {
+    "PROVIDER_ID": "PROV033",
+    "NAME": "David Alexander MD",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "8957139208",
+    "ADDRESS": "3453 Matthew Island, Wallland, NM 82373",
+    "CITY": "Colemanmouth",
+    "STATE": "MT",
+    "ZIP_CODE": "29090"
+  },
+  {
+    "PROVIDER_ID": "PROV034",
+    "NAME": "Michelle Brooks MD",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "4778025948",
+    "ADDRESS": "88074 Lance Mission Apt. 414, East Josephside, MT 47057",
+    "CITY": "New Nicoleland",
+    "STATE": "AZ",
+    "ZIP_CODE": "24879"
+  },
+  {
+    "PROVIDER_ID": "PROV035",
+    "NAME": "John Powell DO",
+    "SPECIALTY": "Dermatology",
+    "NPI": "8649137510",
+    "ADDRESS": "38260 James Land Apt. 211, Lisaborough, CT 01101",
+    "CITY": "Port Jeffrey",
+    "STATE": "PA",
+    "ZIP_CODE": "08354"
+  },
+  {
+    "PROVIDER_ID": "PROV036",
+    "NAME": "Austin-Parrish",
+    "SPECIALTY": "Internal Medicine",
+    "NPI": "5911739384",
+    "ADDRESS": "09885 Kelly Wells Suite 526, New Jasminefort, HI 39886",
+    "CITY": "Kelleyport",
+    "STATE": "ME",
+    "ZIP_CODE": "84038"
+  },
+  {
+    "PROVIDER_ID": "PROV037",
+    "NAME": "Donna Sheppard MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "2967733062",
+    "ADDRESS": "84289 Smith Port Apt. 700, Haasside, UT 69394",
+    "CITY": "Russellville",
+    "STATE": "CO",
+    "ZIP_CODE": "21037"
+  },
+  {
+    "PROVIDER_ID": "PROV038",
+    "NAME": "Joyce, Chen and Sanders",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "1720296829",
+    "ADDRESS": "042 Ponce River, Port Michael, AK 04494",
+    "CITY": "Port Katieside",
+    "STATE": "KY",
+    "ZIP_CODE": "33333"
+  },
+  {
+    "PROVIDER_ID": "PROV039",
+    "NAME": "Crawford-Reed",
+    "SPECIALTY": "Dermatology",
+    "NPI": "6463922171",
+    "ADDRESS": "7557 Janice Corner, East Andrea, FL 05569",
+    "CITY": "Riceshire",
+    "STATE": "PA",
+    "ZIP_CODE": "90099"
+  },
+  {
+    "PROVIDER_ID": "PROV040",
+    "NAME": "Peterson, Solis and Ramirez",
+    "SPECIALTY": "Cardiology",
+    "NPI": "9591992620",
+    "ADDRESS": "957 Medina Vista, Rodgersberg, KS 55385",
+    "CITY": "Taylorshire",
+    "STATE": "IA",
+    "ZIP_CODE": "34076"
+  },
+  {
+    "PROVIDER_ID": "PROV041",
+    "NAME": "Smith, Andrade and Morgan",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "5023743184",
+    "ADDRESS": "25743 Owens Views, Nicholasborough, NE 96335",
+    "CITY": "South Anthony",
+    "STATE": "SC",
+    "ZIP_CODE": "59879"
+  },
+  {
+    "PROVIDER_ID": "PROV042",
+    "NAME": "James Griffin MD",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "6798378528",
+    "ADDRESS": "10912 Hardy Forest Suite 707, Carrieville, MA 70693",
+    "CITY": "Fisherburgh",
+    "STATE": "HI",
+    "ZIP_CODE": "95507"
+  },
+  {
+    "PROVIDER_ID": "PROV043",
+    "NAME": "Davis PLC",
+    "SPECIALTY": "Cardiology",
+    "NPI": "7592566473",
+    "ADDRESS": "91342 Murphy Crossing, Brandonmouth, GA 53503",
+    "CITY": "Stephanieland",
+    "STATE": "SC",
+    "ZIP_CODE": "39532"
+  },
+  {
+    "PROVIDER_ID": "PROV044",
+    "NAME": "Tiffany Moore MD",
+    "SPECIALTY": "Family Medicine",
+    "NPI": "1527703746",
+    "ADDRESS": "324 Banks Drive, East Todd, AZ 42577",
+    "CITY": "Nicoleview",
+    "STATE": "TN",
+    "ZIP_CODE": "95732"
+  },
+  {
+    "PROVIDER_ID": "PROV045",
+    "NAME": "Virginia Deleon MD",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "1648825448",
+    "ADDRESS": "544 Fowler Mission Suite 475, Ortizview, OH 92648",
+    "CITY": "Lake Barbarastad",
+    "STATE": "AR",
+    "ZIP_CODE": "20855"
+  },
+  {
+    "PROVIDER_ID": "PROV046",
+    "NAME": "Ashley Fox DO",
+    "SPECIALTY": "Dermatology",
+    "NPI": "4146877642",
+    "ADDRESS": "634 Giles Centers, West Bethany, MD 60767",
+    "CITY": "Mooreborough",
+    "STATE": "MN",
+    "ZIP_CODE": "92298"
+  },
+  {
+    "PROVIDER_ID": "PROV047",
+    "NAME": "Julie Lang MD",
+    "SPECIALTY": "Psychiatry",
+    "NPI": "4697421890",
+    "ADDRESS": "31274 Brian Turnpike Apt. 799, South Antonioshire, AZ 92824",
+    "CITY": "Adamfurt",
+    "STATE": "AR",
+    "ZIP_CODE": "47734"
+  },
+  {
+    "PROVIDER_ID": "PROV048",
+    "NAME": "Gail Cook MD",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "6914242536",
+    "ADDRESS": "2044 Micheal Haven, Billystad, MH 19074",
+    "CITY": "West Jessica",
+    "STATE": "NY",
+    "ZIP_CODE": "17801"
+  },
+  {
+    "PROVIDER_ID": "PROV049",
+    "NAME": "Justin Johnson DO",
+    "SPECIALTY": "Pediatrics",
+    "NPI": "7084054323",
+    "ADDRESS": "48833 Sullivan Cliff, Patriciaside, ME 43521",
+    "CITY": "Angelicafurt",
+    "STATE": "MA",
+    "ZIP_CODE": "22937"
+  },
+  {
+    "PROVIDER_ID": "PROV050",
+    "NAME": "Sara Kirby MD",
+    "SPECIALTY": "Orthopedics",
+    "NPI": "9829616191",
+    "ADDRESS": "97601 Hill Inlet, New Kimberly, MD 08186",
+    "CITY": "Nicholasland",
+    "STATE": "KY",
+    "ZIP_CODE": "85845"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "PLAN_ID": "PLAN001",
+    "NAME": "BlueCare PPO",
+    "TYPE": "PPO",
+    "COPAY": 30,
+    "DEDUCTIBLE": 500,
+    "COINSURANCE": 0.2
+  },
+  {
+    "PLAN_ID": "PLAN002",
+    "NAME": "HealthNet HMO",
+    "TYPE": "HMO",
+    "COPAY": 15,
+    "DEDUCTIBLE": 100,
+    "COINSURANCE": 0.1
+  },
+  {
+    "PLAN_ID": "PLAN003",
+    "NAME": "SecureChoice EPO",
+    "TYPE": "EPO",
+    "COPAY": 25,
+    "DEDUCTIBLE": 1000,
+    "COINSURANCE": 0.25
+  }
+]
